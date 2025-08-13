@@ -83,7 +83,7 @@
       <td><img alt="downloads" src="https://img.shields.io/pub/dm/icon_checkbox?style=flat-square&labelColor=343b41&color=green"/></td>
       <td><img alt="points" src="https://img.shields.io/pub/points/icon_checkbox?style=flat-square&labelColor=343b41&color=orange"/></td>
       <td>
-        <a href="https://pub.dev/packages/icon_checkbox">pub.dev</a>
+        <a href="https://pub.dev/packages/icon_checkbox">pub.dev</a> •
         <a href="https://github.com/taiseiiiii/icon_checkbox">GitHub</a>
       </td>
     </tr>
